@@ -1,4 +1,4 @@
 # Firstprogram-demo
 This is my first Git Repository.
 <br>
-Author- Vikas Kumar
+Author- Vikas (Frontend Developer)
